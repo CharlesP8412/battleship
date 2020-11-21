@@ -1,0 +1,22 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "Battleship game, JS backend, web client side",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesP8412/battleship.git"
+  },
+  "author": "@CharlesP8412",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesP8412/battleship/issues"
+  },
+  "homepage": "https://github.com/CharlesP8412/battleship#readme"
+}
